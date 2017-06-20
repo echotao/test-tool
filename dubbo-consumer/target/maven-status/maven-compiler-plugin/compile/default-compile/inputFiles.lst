@@ -1,0 +1,9 @@
+/Users/shatao/Code/test-tool/dubbo-consumer/src/main/java/com/et/dubboConsumer/domain/ResponseDTO.java
+/Users/shatao/Code/test-tool/dubbo-consumer/src/main/java/com/et/dubboConsumer/Consumer.java
+/Users/shatao/Code/test-tool/dubbo-consumer/src/main/java/com/et/dubboConsumer/service/impl/CityServiceDaoImpl.java
+/Users/shatao/Code/test-tool/dubbo-consumer/src/main/java/com/et/dubboConsumer/domain/City.java
+/Users/shatao/Code/test-tool/dubbo-consumer/src/main/java/com/et/dubboConsumer/dao/CityDao.java
+/Users/shatao/Code/test-tool/dubbo-consumer/src/main/java/com/et/dubboConsumer/service/CityService.java
+/Users/shatao/Code/test-tool/dubbo-consumer/src/main/java/com/et/dubboConsumer/web/DubboRestController.java
+/Users/shatao/Code/test-tool/dubbo-consumer/src/main/java/com/et/dubboConsumer/Application.java
+/Users/shatao/Code/test-tool/dubbo-consumer/src/main/java/com/et/dubboConsumer/service/DubboRestService.java
