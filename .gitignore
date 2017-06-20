@@ -1,2 +1,6 @@
 */workspace.xml
 */.idea/*
+*/.classpath
+*/.project
+*/*.iml
+
