@@ -1,9 +1,0 @@
-com/et/dubboConsumer/Application.class
-com/et/dubboConsumer/dao/CityDao.class
-com/et/dubboConsumer/service/CityService.class
-com/et/dubboConsumer/domain/ResponseDTO.class
-com/et/dubboConsumer/web/DubboRestController.class
-com/et/dubboConsumer/domain/City.class
-com/et/dubboConsumer/service/impl/CityServiceDaoImpl.class
-com/et/dubboConsumer/Consumer.class
-com/et/dubboConsumer/service/DubboRestService.class

@@ -1,6 +1,9 @@
-*/workspace.xml
-*/.idea/*
-*/.classpath
-*/.project
-*/*.iml
-
+*workspace.xml
+*.idea/*
+*.idea
+*.classpath
+*.project
+*.iml
+BQJR*.*
+*/*.log
+*/*target/*
